@@ -1,0 +1,33 @@
+# --- Core App ---
+streamlit
+openai
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+pypdf
+python-docx
+python-pptx
+openpyxl
+pandas
+beautifulsoup4
+deep-translator
+tabulate
+tqdm
+regex
+Pillow
+
+# --- Google Drive API Access ---
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+
+# --- Utilities & Indexing ---
+python-dotenv
+rank-bm25
+python-dateutil
+
+# --- Text & File Handling ---
+unstructured
+pdfminer.six
